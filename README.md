@@ -20,6 +20,18 @@ I have extensive experience as a technical leader, guiding teams in executing te
 
 I am known for my integrity, creativity, and efficiency, with a strong analytical ability to solve complex problems. Valuing continuous learning and teamwork, I interact seamlessly in interdisciplinary groups, ensuring effective collaboration and successful outcomes.
 
+<!-- #### 😎 &nbsp;My pronouns are: He/Him/His -->
+
+## 📈 &nbsp;&nbsp;Some of my stats
+
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-perez-ruiz&layout=compact&theme=chartreuse-light" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=santiago-perez-ruiz&repo=github-readme-stats&theme=chartreuse-light&show_icons=true" />
+</p>
+<p align="center">
+  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=santiago-perez-ruiz.santiago-perez-ruiz" />
+</p>
+
 ## Contact 📫
 
 I'm interested in continuing to lead high-impact projects and offer innovative solutions! If you'd like to get in touch, you can reach me via [my email](mailto:santiago-perez-ruiz@outlook.com).
