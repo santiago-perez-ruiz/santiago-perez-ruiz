@@ -36,6 +36,5 @@ I am known for my integrity, creativity, and efficiency, with a strong analytica
 
 I'm interested in continuing to lead high-impact projects and offer innovative solutions! If you'd like to get in touch, you can reach me via [my email](mailto:santiago-perez-ruiz@outlook.com).
 
+---
 Thanks for visiting my GitHub profile! I look forward to contributing and learning from the community! 🌟
-
-Feel free to use this example as a base and customize it according to your preferences and needs. Good luck with your projects!
