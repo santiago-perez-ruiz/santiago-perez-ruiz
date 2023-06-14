@@ -22,7 +22,7 @@ I am known for my integrity, creativity, and efficiency, with a strong analytica
 
 <!-- #### 😎 &nbsp;My pronouns are: He/Him/His -->
 
-## 📈 &nbsp;&nbsp;Some of my stats
+## Some of my stats 📈
 
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-perez-ruiz&layout=compact&theme=chartreuse-light" />
